@@ -26,13 +26,9 @@ export default function Home() {
 
       <div>
         <p className="flex flex-col mt-4 text-lg text-gray-300 dark:text-gray-300 text-center">
-          <span>
-            Merhaba. Hayat sizler gibi güzel ve narin. Kamanda yaşamanın
-          </span>
-          <span>
-            zorlukları hakkın da en ufak bilginiz yok. en kısa zaman da görüşmek
-          </span>
-          <span>üzere. evet kaçırıldım. Tarafından.</span>
+          <span>a Product Designer in Turkey.</span>
+          <span>I&apos;m in the know UI/UX Design, Web Development,</span>
+          <span>and crafting interfaces.</span>
         </p>
       </div>
 
